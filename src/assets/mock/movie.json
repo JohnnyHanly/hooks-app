@@ -1,0 +1,53 @@
+{
+    "imdb": {
+        "rating": 6.5,
+        "votes": 1660,
+        "id": 5078
+    },
+    "awards": {
+        "wins": 1,
+        "nominations": 0,
+        "text": "1 win."
+    },
+    "tomatoes": {
+        "viewer": {
+            "rating": 3.2,
+            "numReviews": 423,
+            "meter": 44
+        },
+        "production": "Jesse L. Lasky Feature Play Company",
+        "lastUpdated": "2015-09-11T17:55:28.000Z"
+    },
+    "genres": [
+        "Drama"
+    ],
+    "cast": [
+        "Fannie Ward",
+        "Sessue Hayakawa",
+        "Jack Dean",
+        "James Neill"
+    ],
+    "countries": [
+        "USA"
+    ],
+    "directors": [
+        "Cecil B. DeMille"
+    ],
+    "_id": "573a1390f29313caabcd5501",
+    "plot": "A venal, spoiled stockbroker's wife impulsively embezzles $10,000 from the charity she chairs and desperately turns to a Burmese ivory trader to replace the stolen money.",
+    "runtime": 59,
+    "poster": "https://m.media-amazon.com/images/M/MV5BMjEzMjcxNTM5M15BMl5BanBnXkFtZTgwMzgwNjQ1MjE@._V1_SY1000_SX677_AL_.jpg",
+    "title": "The Cheat",
+    "fullplot": "Edith Hardy uses charity funds for Wall Street investments in hopes of buying some new gowns. She loses all the money and borrows from wealthy oriental Tori. When her husband gives her the amount she borrowed, Tori won't take it back, branding her shoulder with a Japanese sign of his ownership. She shoots him. Her husband takes the blame. In court Edith reveals all to an angry mob.",
+    "languages": [
+        "English"
+    ],
+    "released": "1915-12-13T00:00:00.000Z",
+    "writers": [
+        "Hector Turnbull (scenario)",
+        "Jeanie Macpherson (scenario)"
+    ],
+    "lastupdated": "2015-08-31 00:41:20.670000000",
+    "year": 1915,
+    "type": "movie"
+}
